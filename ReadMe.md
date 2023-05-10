@@ -1,8 +1,7 @@
 # UML design project
 Group of 4 people 
 
-The Design report pdf explains extensively what was done in this project. 
-
+Designing a carpark system availing of UML Diagrams
 # Overview
 ---
 <img width="797" alt="image" src="https://user-images.githubusercontent.com/44605305/205721283-5e1e9a51-39d8-480e-b084-e7834e822880.png">
